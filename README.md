@@ -7,7 +7,5 @@ For this project, I wanted to train a Sequence To Sequence model on my past conv
 ## Steps:
 Facebook Data: Facebook provides a file with all of my messages in an .htm format. I'm going to need to parse through this large file, and extract all of the conversations. To do this, I'll use this tool that Dillon Dixon has kindly open sourced. 
     
-
-    ```bash
     pip install fbchat-archive-parser
-    ```
+    

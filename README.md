@@ -16,3 +16,7 @@ which gives me a .txt file. I'll modify this .txt file using my script getFacebo
 #### Future Improvements:
 - Increase number of iterations, since I currently don't have enough computation power or resources to run more iterations fast.
 - Adding more data from other social media applications like Whatsapp.
+
+
+#### Notes:
+English is not my first language, so some of the bot responses are not in English and won't be understood by people who speak different languages than I do.

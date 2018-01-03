@@ -19,4 +19,4 @@ which gives me a .txt file. I'll modify this .txt file using my script getFacebo
 
 
 #### Notes:
-English is not my first language, so some of the bot responses are not in English and won't be understood by people who speak different languages than I do.
+English is not my first language, so some of the bot responses use the English alphabet but are not English words. Thus, some of the responses won't be understood by people who don't speak my language.

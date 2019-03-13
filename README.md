@@ -20,3 +20,5 @@ which gives me a .txt file. I'll modify this .txt file using my script getFacebo
 
 #### Notes:
 English is not my first language, so some of the bot responses use the English alphabet but are not English words. Thus, some of the responses won't be understood by people who don't speak my language.
+
+Credits to https://adeshpande3.github.io/How-I-Used-Deep-Learning-to-Train-a-Chatbot-to-Talk-Like-Me for the tutorial!
